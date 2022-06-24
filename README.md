@@ -1,15 +1,17 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-<a href="https://discordapp.com/channels/@me/Bynawers/">
-  <img align="left" alt="Theo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://fr.linkedin.com/in/th%C3%A9o-fratczak-28ba64221/">
-  <img align="left" alt="Theo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+<a href="https://twitter.com/Bynawers" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bynawers" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/th%C3%A9o-fratczak-28ba64221" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bynawers" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/Bynawers#3331" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bynawers" height="40" width="30" /></a>&nbsp;
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Bynawers)
 <br />
 hi, i'm Théo Fratczak, a 3rd year computer science student 
-who wants to become a Full Stack developer.
+
+
   
   
 - 💼 Want to contact me? [email](mailto:Theo.fratczak@gmail.com)
