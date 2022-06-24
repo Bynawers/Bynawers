@@ -7,9 +7,9 @@
 <a href="http://discord.com/users/Bynawers#3331" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bynawers" height="40" width="30" /></a>&nbsp;
 
-![](https://visitor-badge.glitch.me/badge?page_id=Bynawers)
 <br />
 hi, i'm Théo Fratczak, a 3rd year computer science student 
+
 
 
   
@@ -35,3 +35,5 @@ hi, i'm Théo Fratczak, a 3rd year computer science student
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/fr/index.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/fr/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="my-sql" width="40" height="40"/> </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Bynawers)
