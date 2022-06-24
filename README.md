@@ -24,7 +24,7 @@ I'm Théo Fratczak, a 3rd year computer science student
 ## Technology Stack
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)](https://www.javascript.com/)
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/fr)
 [![Java](https://img.shields.io/badge/-Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com)
 [![C](https://img.shields.io/badge/-C-283593?style=flat-square&logo=c&logoColor=ffffff)](https://www.cprogramming.com/)
