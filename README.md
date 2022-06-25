@@ -27,7 +27,8 @@ I'm Théo Fratczak, a 3rd year computer science student
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)](https://www.javascript.com/)
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/fr)
 [![Java](https://img.shields.io/badge/-Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com)
-[![C](https://img.shields.io/badge/-C-283593?style=flat-square&logo=c&logoColor=ffffff)](https://www.cprogramming.com/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.cprogramming.com/)
 [![React](https://img.shields.io/badge/-React_Native-04a5cf?style=flat-square&logo=react&logoColor=ffffff)](https://www.python.org/)
 [![Html](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3.org/html/")
 
@@ -36,9 +37,9 @@ I'm Théo Fratczak, a 3rd year computer science student
 [![FireBase](https://img.shields.io/badge/-Firebase-eeeeee?style=flat-square&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=%23ffffff)](https://git-scm.com/)
-[![Unreal](https://img.shields.io/badge/-Unreal_Engine-000000?style=flat-square&logo=unreal%20Engine&logoColor=%23ffffff)](https://git-scm.com/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=%23ffffff)](https://git-scm.com/)
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=%23ffffff)](https://unity.com/fr)
+[![Unreal](https://img.shields.io/badge/-Unreal_Engine-000000?style=flat-square&logo=unreal%20Engine&logoColor=%23ffffff)](https://www.unrealengine.com/en-US)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=%23ffffff)](https://redux.js.org/)
 
 ## Stats
 
