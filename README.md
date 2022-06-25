@@ -26,10 +26,10 @@ I'm Théo Fratczak, a 3rd year computer science student
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)](https://www.javascript.com/)
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/fr)
-[![Java](https://img.shields.io/badge/-Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com)
+[![Java](https://img.shields.io/badge/-Java-ea2d2f?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.cprogramming.com/)
-[![React](https://img.shields.io/badge/-React_Native-04a5cf?style=flat-square&logo=react&logoColor=ffffff)](https://www.python.org/)
+[![React](https://img.shields.io/badge/-React_Native-04a5cf?style=flat-square&logo=react&logoColor=ffffff)](https://reactnative.dev/)
 [![Html](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3.org/html/")
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
@@ -41,6 +41,6 @@ I'm Théo Fratczak, a 3rd year computer science student
 [![Unreal](https://img.shields.io/badge/-Unreal_Engine-000000?style=flat-square&logo=unreal%20Engine&logoColor=%23ffffff)](https://www.unrealengine.com/en-US)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=%23ffffff)](https://redux.js.org/)
 
-## Stats
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Github Stats:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Bynawers)
