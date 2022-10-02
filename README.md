@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm Théo Fratczak, a 3rd year computer science student
+I'm Théo Fratczak, a 3rd year computer science student and CTO of DXII
 
 <a href="https://twitter.com/Bynawers" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bynawers" height="30" width="30" /></a>&nbsp;
@@ -10,15 +10,15 @@ I'm Théo Fratczak, a 3rd year computer science student
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bynawers" height="40" width="30" /></a>&nbsp;
 
 ## About Me:
-- 🖥️ Use daily **.js**, **.c**, **.rs**
+- 🖥️ Use daily **.js**, **.rs**
 - 🎮 Create vidéo games with Unreal Engine 5 or Unity
 - ✨ Love meteorology, cinema, geopolitics and astronomy
-- 💼 Currently work on a Wine Application with react native
+- 💼 Currently work on a Wine Application named Grappe for DXII
 - 💡 Want to contact me? [email](mailto:Theo.fratczak@gmail.com)
 
 ## Operating System & Tools:
 
-[![linux](https://img.shields.io/badge/Linux-Ubuntu-292e33?style=flat-square&logo=linux&logoColor=ffffff)](https://www.ubuntu-fr.org/)
+[![linux](https://img.shields.io/badge/System-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.ubuntu-fr.org/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ## Technology Stack
