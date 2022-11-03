@@ -2,8 +2,6 @@
 
 I'm Théo Fratczak, a 3rd year computer science student and CTO of DXII
 
-<a href="https://twitter.com/Bynawers" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bynawers" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/th%C3%A9o-fratczak-28ba64221" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bynawers" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/Bynawers#3331" target="blank">
