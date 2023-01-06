@@ -29,6 +29,7 @@ I'm Théo Fratczak, a 3rd year computer science student and CTO of DXII
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.cprogramming.com/)
 [![React](https://img.shields.io/badge/-React_Native-04a5cf?style=flat-square&logo=react&logoColor=ffffff)](https://reactnative.dev/)
 [![Html](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3.org/html/")
+![Node](https://img.shields.io/badge/Node%20Js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
